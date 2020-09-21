@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 
-Your text
+Lifes a snowball that keeps on rolling until it cracks
 Use the left arrow to go back
